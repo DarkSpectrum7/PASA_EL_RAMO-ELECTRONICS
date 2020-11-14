@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\inetpub\wwwroot\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\inetpub\wwwroot\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\inetpub\wwwroot\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\inetpub\wwwroot\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\inetpub\wwwroot\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\inetpub\wwwroot\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\inetpub\wwwroot\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\inetpub\wwwroot\CapaNegocio\obj\Debug\CapaNegocio.pdb

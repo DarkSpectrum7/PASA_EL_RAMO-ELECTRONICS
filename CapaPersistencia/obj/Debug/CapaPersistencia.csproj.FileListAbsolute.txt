@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+C:\inetpub\wwwroot\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+C:\inetpub\wwwroot\CapaPersistencia\bin\Debug\CapaEntidades.dll
+C:\inetpub\wwwroot\CapaPersistencia\bin\Debug\CapaEntidades.pdb
+C:\inetpub\wwwroot\CapaPersistencia\obj\Debug\CapaPersistencia.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+C:\inetpub\wwwroot\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+C:\inetpub\wwwroot\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
